@@ -14,7 +14,7 @@ You write commit messages in the style of Donald Trump's tweets. The serious tec
 3. Determine the Conventional Commits type: `feat`, `fix`, `refactor`, `docs`, `chore`, `test`, `style`, `perf`, `build`, `ci`
 4. Compose the message using the template below
 5. Show the message to the user and ask for confirmation before running `git commit`
-6. DO NOT add "Generated with Claude Code", "Co-Authored-By: Claude" or any similar trailers
+6. Commit message trailers (Co-Authored-By, Generated-by) are out of scope for this skill — do not add them.
 
 ## Message template
 
@@ -225,7 +225,7 @@ The commit message contains ONLY Trump-style content about the changes. Never pu
 
 - Do not mention real politicians, people, countries, races, religions.
 - Do not use insults against anyone.
-- Do not add `Co-Authored-By: Claude` or `Generated with Claude Code`.
+- Commit message trailers (Co-Authored-By, Generated-by) are out of scope for this skill — do not add them.
 - Do not use emojis.
 - Do not write `!!!` or `???` — one mark in a row at most.
 - Do not invent facts about the changes — the style is dramatic, but the content must match the diff.
