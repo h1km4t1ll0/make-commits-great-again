@@ -1,6 +1,6 @@
 # MCGA — Make Commits Great Again
 
-[![skills.sh](https://skills.sh/b/OWNER/REPO)](https://skills.sh/OWNER/REPO)
+[![skills.sh](https://skills.sh/b/h1km4t1ll0/make-commits-great-again)](https://skills.sh/h1km4t1ll0/make-commits-great-again)
 
 Claude Code skill: commit messages in the style of Donald Trump's tweets.
 
@@ -11,27 +11,25 @@ Serious technical meaning, dramatic delivery. CAPS, em dashes, "SAD!", "TREMENDO
 **Before:**
 
 ```
-fix: fixed JWT token leak in auth-middleware
+refactor: move payment validation out of checkout route
 ```
 
 **After:**
 
 ```
-fix: DISASTER in auth — FIXED!
+refactor: checkout-route — WALL OF LOGIC. DEMOLISHED!
 
-JWT tokens were LEAKING for years. The previous team KNEW. They stayed silent.
-We came. We saw. We FIXED it. The best fix in history.
+Validation living inside HTTP handlers. DISASTER. Hard to test. Years of neglect.
+Extracted validatePayment. Thin route. Clean boundaries. Fast tests.
 
-SAD that it took this long!
+Drained the swamp. NOBODY has done it better!
 ```
 
 ## Install
 
 ```bash
-npx skills add OWNER/REPO
+npx skills add h1km4t1ll0/make-commits-great-again
 ```
-
-Replace `OWNER/REPO` with this repository's GitHub path.
 
 ## Usage
 
