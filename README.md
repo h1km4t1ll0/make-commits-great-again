@@ -94,7 +94,7 @@ If you don't want to use the CLI, copy `mcga/SKILL.md` into one of:
 
 ## License
 
-MIT. Do whatever. Make commits great again.
+[WTFPL](https://www.wtfpl.net/) — Do What the Fuck You Want to. Make commits great again.
 
 ## Disclaimer
 
